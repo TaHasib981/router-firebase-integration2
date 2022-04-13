@@ -1,0 +1,38 @@
+.login-container{
+    border: 2px solid lightgray;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+}
+.email-field{
+    width: 250px;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+.password-field{
+    width: 250px;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+.registering span{
+ color: grey;
+}
+.registering a {
+    color: blue;
+}
+.login-btn{
+    background-color: rgb(21, 21, 141);
+    color: white;
+    width: 270px;
+    border: none;
+    border: 2px solid lightgray;
+    padding: 7px;
+}
+.google-btn{
+    background-color: whitesmoke;
+    width: 250px;
+    border: none;
+    border: 2px solid lightgray;
+    padding: 5px;
+}
